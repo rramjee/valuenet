@@ -46,7 +46,6 @@ markdown==3.2.1
 matplotlib==3.2.1
 more-itertools==8.2.0
 murmurhash==1.0.2
-mysqlclient==1.4.6
 nltk==3.5
 numpy==1.18.4
 nvidia-ml-py3==7.352.0
